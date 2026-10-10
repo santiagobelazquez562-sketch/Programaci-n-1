@@ -106,7 +106,7 @@ def main():
     parejas = cargarParejas()
     opcion = ""
     while opcion != "7":
-        print("\nMENU TORNEO DE PADEL")
+        print("MENU TORNEO DE PADEL")
         print("1. Registrar jugadores")
         print("2. Mostrar lista de inscriptos")
         print("3. Buscar jugador por nombre")
